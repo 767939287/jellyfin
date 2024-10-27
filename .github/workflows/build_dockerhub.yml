@@ -5,7 +5,7 @@ on:
     tags:
       - 'v*'
 
-env:
+#env:
   # github.repository = <account>/<repo>
   # IMAGE_NAME: ${{ github.repository }}
 
